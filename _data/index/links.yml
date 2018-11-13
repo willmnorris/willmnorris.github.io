@@ -1,18 +1,5 @@
 # links section data
-- last_name: Name 1
+- last_name: Resume Download
   first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
-
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
-
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+  desc: Resume
+  website: https://drive.google.com/file/d/1DSprk1erlbC2fSYQwuiS02WsF5qz32FR/view?usp=sharing
