@@ -1,29 +1,29 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: Earth Lab
+    i18n: earthlab
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: I am an intern at Earth Lab, exploring data driven aproaches to solving Earth Science Problems.
+    i18n: earthlab_desc
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: May. 2017
+    i18n: earthlab_date
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: Intern
+    i18n: earthlab_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Eco Reps
+    i18n: ecoreps
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: I coordinated a group of 30 student leaders each year at CU to encourage sustainability on campus.
+    i18n: ecoreps_desc
   date:
     detail: Jun. 2015
-    i18n: company_b_date
+    i18n: ecoreps_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Program Coordinator
+    i18n: ecoreps_job
   icon: fa-plus-square
