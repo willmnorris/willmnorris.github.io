@@ -28,8 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: I am a current Senior in Computer Science and Geography at the University
-  of Colorado, Boudler. I am particularly interested in big data workflows, machine learning, and data visualization. 
+  desc: I am a current Senior in Computer Science and Geography at the University of Colorado, Boudler. I am particularly interested in big data workflows, machine learning, and data visualization. 
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
