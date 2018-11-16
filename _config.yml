@@ -15,7 +15,7 @@ author:  # change following line to your infomation.
   first_name: Will  # Be used at index page about me section.
   last_name: Norris  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
-  github_username: willmnorris  # Leave blank if you don't have now
+  github_username: wino6687  # Leave blank if you don't have now
   linkedin_id: wino6687 # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
   twitter_username: wino6687  # Leave blank if you don't have now
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: I am a current Senior in Computer Science and Geography at the University of Colorado, Boudler. I am particularly interested in big data workflows, machine learning, and data visualization. 
+  desc: I am a current Senior in Computer Science and Geography at the University of Colorado, Boudler. I am particularly interested in big data workflows, machine learning, and data visualization.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
