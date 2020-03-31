@@ -1,10 +1,24 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Earth Lab - Analytics Hub
+    i18n: earthlab
+  desc:
+    detail: Research Assistant at Earth Lab - Analytics Hub, Developing open source solutions to big data aquisition, specifically geospatial data. 
+    i18n: earthlab_desc
+  date:
+    detail: January. 2019
+    i18n: earthlab_date
+  job:
+    detail: Research Assistant
+    i18n: earthlab_job
+  icon: fa-plus-square
+
+- name:
     detail: Earth Lab
     i18n: earthlab
   desc:
-    detail: I am an intern at Earth Lab, exploring data driven aproaches to solving Earth Science Problems.
+    detail: Intern at Earth Lab, exploring data driven aproaches to solving Earth Science Problems. Developed Conv-LSTM model for SWE forcasting.
     i18n: earthlab_desc
   date:
     detail: May. 2017
@@ -18,7 +32,7 @@
     detail: Eco Reps
     i18n: ecoreps
   desc:
-    detail: I coordinated a group of 30 student leaders each year at CU to encourage sustainability on campus.
+    detail: Coordinated group of 30 student leaders each year at CU to encourage sustainability on campus. Developed cirriculum for full year of lessons about sustainability on campus.
     i18n: ecoreps_desc
   date:
     detail: Jun. 2015
